@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Planilhas locais de tarifa (se copiar da Cosern para validar)
+*.xlsx
+*.xlsm
+
+.env
+.env.*
+!.env.example
